@@ -93,7 +93,7 @@ The system combines **real-time voice processing, conversational intelligence, a
 
 ## 🌐 Find Me Online
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/srishant-kulkarni-a94a1637b/)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/srishantkulkarni/)
 
 📧 **Email:** [imsrishant@gmail.com](mailto:imsrishant@gmail.com)
 
