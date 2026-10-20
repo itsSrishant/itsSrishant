@@ -1,12 +1,12 @@
-<div align="center">
 
-# Hi, I'm Srishant Kulkarni 👋
+
+# Hi, I'm Srishant Kulkarni 
 ### AI & Data Science Engineer · Software Developer
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://srishantkulkarni-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=orange)](https://srishantkulkarni-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishantkulkarni/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsSrishant)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imsrishant@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=yellow)](mailto:imsrishant@gmail.com)
 
 <br/>
 
@@ -91,7 +91,7 @@ Built an **AI Voice Calling Platform end-to-end**, designing a real-time convers
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
